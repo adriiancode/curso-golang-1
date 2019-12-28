@@ -1,0 +1,2 @@
+hola, esto esta en el archivo
+externo para ser leido

@@ -1,0 +1,4 @@
+/*una clousure es una funcion
+evaluada en un entorno que contiene
+una o mas variables dependientes de 
+otro entorno*/
